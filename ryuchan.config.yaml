@@ -1,6 +1,6 @@
 site:
-  tab: RyuChan
-  title: RyuChan
+  tab: NekoBlog
+  title: NekoBlog
   title_type: image
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
@@ -95,37 +95,16 @@ site:
   titleType: image
 anime:
   bilibili:
-    uid: '1536411565'
+    uid: '3546615111486010'
   tmdb:
     apiKey: 08a6bef260044f70c150251c79f2e476
     listId: '8556173'
 music:
   playlists:
-    - id: '17933567326'
-      name: 我的喜欢
-      server: netease
     - id: zhoujielun
       name: 周杰伦
       server: netease
       type: custom
-    - id: '17964946766'
-      name: 陶喆
-      server: netease
-    - id: '17957187425'
-      name: 方大同
-      server: netease
-    - id: '17956985703'
-      name: G.E.M.邓紫棋
-      server: netease
-    - id: '17957136689'
-      name: 林俊杰
-      server: netease
-    - id: '17957661244'
-      name: 孙燕姿
-      server: netease
-    - id: '17966019560'
-      name: 告五人
-      server: netease
 github:
   owner: kobaridev
   repo: RyuChan
@@ -148,41 +127,24 @@ user:
   qr_alipay: /Alipay.jpg
   sidebar:
     social:
-      - href: https://github.com/kobaridev
+      - href: https://github.com/idkwhatismyname123
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://space.bilibili.com/3546615111486010
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
-      - href: >-
-          https://www.douyin.com/user/MS4wLjABAAAAeO0sqJYUgh1a26GkVPtS2yv_IOODjeqvtl4KSjvsntg?from_tab_name=main
-        ariaLabel: Douyin
-        title: Douyin
-        svg: ri:tiktok-line
-      - href: https://weibo.com/u/7579913510
-        title: Weibo
-        ariaLabel: Weibo
-        svg: ri:weibo-fill
   footer:
     social:
-      - href: https://github.com/kobaridev
+      - href: https://github.com/idkwhatismyname123
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://space.bilibili.com/3546615111486010
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
-      - href: https://x.com/xzz_ya
-        ariaLabel: X(twitter)
-        title: X(twitter)
-        svg: ri:twitter-line
-      - href: https://t.me/xzz_ya
-        ariaLabel: Telegram
-        title: Telegram
-        svg: ri:telegram-line
 comments:
   enable: true
   type: twikoo
