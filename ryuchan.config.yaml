@@ -19,8 +19,8 @@ site:
     height: 70vh
     images:
       - https://tc.alcy.cc/q/20250908/b2d656670551cb9ea6eda7b46b6c8ec0.webp
-  icp: 萌ICP备20261117号
-  icp_link: https://icp.gov.moe/?keyword=20261117
+  icp: 萌ICP备20260087号
+  icp_link: https://icp.gov.moe/?keyword=20260087
   pages:
     home:
       title: RyuChan's Blog
@@ -118,9 +118,9 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: KoBariDev
+  name: idkwhatismyname
   description: Ciallo～(∠・ω<)⌒★
-  site: https://hub.131714.xyz
+  site: https://nekoblog.space
   avatar: /profile.png
   title_image: /logo.png
   qr_wechat: /WeChat.jpg
