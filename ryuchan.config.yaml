@@ -146,7 +146,7 @@ user:
         title: BiliBili
         svg: ri:bilibili-line
 comments:
-  enable: true
+  enable: false
   type: twikoo
   giscus:
     repo: kobaridev/gsc
